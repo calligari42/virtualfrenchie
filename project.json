@@ -1,6 +1,6 @@
 "background" :{
   "type": "html",
-  "url" : "https://calligari42.github.io/virtualpet",
+  "url" : "https://calligari42.github.io/virtualfrenchie",
   "action": {
     "trigger": "navigate"
   }
